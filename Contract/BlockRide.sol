@@ -2,7 +2,7 @@
 pragma solidity ^0.8.20;
 
 /**
- * @title BlockRide - A Decentralized Ride Sharing Platform
+ * @title BlockRide - A Decentralized  Ride Sharing  Platform
  * @notice This smart contract allows drivers to register and riders to book rides securely using blockchain.
  */
 
